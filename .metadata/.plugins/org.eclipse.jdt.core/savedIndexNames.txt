@@ -1,0 +1,15 @@
+INDEX VERSION 1.129+/run/media/Jay/DATA/DevArea/Git/School/CSC200/.metadata/.plugins/org.eclipse.jdt.core
+3834550089.index
+3975105706.index
+1357943946.index
+1455635638.index
+1295687651.index
+925813176.index
+221445291.index
+3079740581.index
+3873400567.index
+962854579.index
+1475518275.index
+30412739.index
+2551288302.index
+1423039051.index
