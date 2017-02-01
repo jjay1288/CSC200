@@ -3,11 +3,17 @@
 	<list key="RepositorySelectionPage.UsedUris">
 		<item value="file:///D:\DevArea\Git\School\CSC200"/>
 	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Ronald Phillips &lt;jjay1288@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Ronald Phillips &lt;jjay1288@gmail.com&gt;"/>
+	</list>
 	<section name="GitCommitMessageComponent">
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
-		<item value="true" key="sortItemState"/>
+		<item value="false" key="sortItemState"/>
 		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
 	</section>
 </section>
